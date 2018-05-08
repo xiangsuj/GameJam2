@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 68983f0debcc7924f949f6187c9e3b9b
+timeCreated: 1524983989
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_0"
+    21300002: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_1"
+    21300004: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_2"
+    21300006: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_3"
+    21300008: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_4"
+    21300010: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_5"
+    21300012: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_6"
+    21300014: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_7"
+    21300016: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_8"
+    21300018: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_9"
+    21300020: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_10"
+    21300022: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_11"
+    21300024: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_12"
+    21300026: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_13"
+    21300028: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_14"
+    21300030: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_15"
+    21300032: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_16"
+    21300034: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_17"
+    21300036: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_18"
+    21300038: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_19"
+    21300040: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_20"
+    21300042: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_21"
+    21300044: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_22"
+    21300046: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_23"
+    21300048: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_24"
+    21300050: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_25"
+    21300052: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_26"
+    21300054: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_27"
+    21300056: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_28"
+    21300058: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_29"
+    21300060: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_30"
+    21300062: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_31"
+    21300064: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_32"
+    21300066: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_33"
+    21300068: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_34"
+    21300070: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_35"
+    21300072: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_36"
+    21300074: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_37"
+    21300076: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_38"
+    21300078: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_39"
+    21300080: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_40"
+    21300082: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_41"
+    21300084: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_42"
+    21300086: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_43"
+    21300088: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_44"
+    21300090: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_45"
+    21300092: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_46"
+    21300094: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_47"
+    21300096: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_48"
+    21300098: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_49"
+    21300100: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_50"
+    21300102: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_51"
+    21300104: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_52"
+    21300106: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_53"
+    21300108: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_54"
+    21300110: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_55"
+    21300112: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_56"
+    21300114: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_57"
+    21300116: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_58"
+    21300118: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_59"
+    21300120: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_60"
+    21300122: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_61"
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 64
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 456
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 456
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 456
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 457
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 463
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 455
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 484
+        width: 255
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 452
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 453
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 454
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 454
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 448
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 453
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 391
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 392
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 392
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 392
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 398
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 399
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 391
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 396
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 396
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 396
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 384
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 332
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 332
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 320
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 242
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 233
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 256
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 256
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 190
+        width: 256
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 228
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 228
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_36"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 228
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_37"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 228
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_38"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 229
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_39"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 229
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_40"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_41"
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 168
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_42"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 192
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_43"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_44"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 107
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_45"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_46"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 104
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_47"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 104
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_48"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 111
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_49"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 103
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_50"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 192
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_51"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_52"
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 43
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_53"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_54"
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 40
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_55"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 40
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_56"
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 47
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_57"
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 39
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_58"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_59"
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_60"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 0
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: "\u84B8\u6C7D\u98CE\u683C\u5730\u56FE\u7D20\u6750-VX-12_\u7231\u7ED9\u7F51_aigei_com_61"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 63
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

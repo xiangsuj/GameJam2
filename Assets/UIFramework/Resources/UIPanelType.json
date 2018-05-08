@@ -1,0 +1,40 @@
+{
+    "infoList": [
+        {
+            "panelTypeString": "Start",
+            "path": "UIPanel/StartPanel"
+        },
+
+        {
+            "panelTypeString": "P1Info",
+            "path": "UIPanel/P1InfoPanel"
+        },
+
+        {
+            "panelTypeString": "P2Info",
+            "path": "UIPanel/P2InfoPanel"
+        },
+
+        {
+            "panelTypeString": "GameOver",
+            "path": "UIPanel/GameOverPanel"
+        },
+        {
+            "panelTypeString": "Timer",
+            "path": "UIPanel/TimerPanel"
+        },
+        {
+            "panelTypeString": "P1Message",
+            "path": "UIPanel/P1MessagePanel"
+        },
+        {
+            "panelTypeString": "P2Message",
+            "path": "UIPanel/P2MessagePanel"
+        }
+
+
+
+
+
+    ]
+}

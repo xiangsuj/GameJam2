@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1109517887, guid: bb0f8bce6cf1f134084ddba3a243f58f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 1
+  lastUpdatedAtString: 2018-05-08T21:03:04.4189805+08:00
+  initializedAtString: 2018-05-08T20:54:13.5572515+08:00
+  currentGitRemote:
+    name: origin
+    url: https://github.com/xiangsuj/GameJam2018.git
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  currentGitBranch:
+    name: master_1
+    tracking: '[None]'
+  currentConfigBranch:
+    name: master_1
+    remote:
+      name: 
+      url: 
+    trackingBranch: 
+  currentConfigRemote:
+    name: origin
+    url: https://github.com/xiangsuj/GameJam2018.git
